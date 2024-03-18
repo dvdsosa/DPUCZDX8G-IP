@@ -1,0 +1,16 @@
+#Note: Mention Each package in individual line
+#These packages will get added into rootfs menu entry
+
+CONFIG_gpio-demo
+CONFIG_peekpoke
+CONFIG_gstreamer-vcu-examples
+CONFIG_packagegroup-petalinux-v4lutils
+CONFIG_packagegroup-petalinux-audio
+CONFIG_gstreamer-vcu-notebooks
+CONFIG_python3-protobuf
+CONFIG_python3-imageio
+CONFIG_dpu-sw-optimize
+CONFIG_opencv-staticdev
+CONFIG_vitis-ai-library
+CONFIG_vitis-ai-library-dev
+CONFIG_vitis-ai-library-dbg
